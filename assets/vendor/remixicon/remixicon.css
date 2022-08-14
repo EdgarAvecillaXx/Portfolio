@@ -195,6 +195,12 @@
 .ri-bar-chart-2-line:before { content: "\ea96"; }
 .ri-bar-chart-box-fill:before { content: "\ea97"; }
 .react:before { content: url(../../img/icons/react1.png); }
+.nodejs:before { content: url(../../img/icons/node-js.png); }
+.expressjs:before{ content: url(../../img/icons/expressjs.png)}
+.nextjs:before{content: url(../../img/icons/nextjs.png)}
+.postgreSQL:before{content:url(../../img/icons/postgreSQL.png)}
+.mongoDB:before{content: url(../../img/icons/mongoDB.png);}
+.mysql:before{content: url(../../img/icons/mysql.png);}
 .ri-bar-chart-fill:before { content: "\ea99"; }
 .ri-bar-chart-grouped-fill:before { content: "\ea9a"; }
 .ri-bar-chart-grouped-line:before { content: "\ea9b"; }
